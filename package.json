@@ -1,0 +1,21 @@
+{
+  "name": "workflowDidesweb",
+  "version": "1.0.0",
+  "author": "Roque Arnás Izquierdo",
+  "homepage": "https://didesweb.com/",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/didesweb/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.27.11",
+    "gulp-clean-css": "^3.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-purgecss": "^5.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
